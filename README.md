@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/maya-11/Leetcode/tree/master/0001-two-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/maya-11/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/maya-11/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
