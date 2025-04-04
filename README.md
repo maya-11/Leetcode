@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/maya-11/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/maya-11/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/maya-11/Leetcode/tree/master/0605-can-place-flowers) |
+| [0739-daily-temperatures](https://github.com/maya-11/Leetcode/tree/master/0739-daily-temperatures) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/maya-11/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/maya-11/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/maya-11/Leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/maya-11/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
