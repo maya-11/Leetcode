@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/maya-11/Leetcode/tree/master/0002-add-two-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/maya-11/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/maya-11/Leetcode/tree/master/0937-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/maya-11/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/maya-11/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
