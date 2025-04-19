@@ -5,7 +5,7 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        seen = {}  # stores number -> index
+        seen = {}  # value -> index
         for i, num in enumerate(nums):
             diff = target - num
             if diff in seen:
