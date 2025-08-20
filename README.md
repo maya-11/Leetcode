@@ -72,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/maya-11/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0937-online-stock-span](https://github.com/maya-11/Leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/maya-11/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/maya-11/Leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/maya-11/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/maya-11/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/maya-11/Leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
