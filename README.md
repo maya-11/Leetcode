@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/maya-11/Leetcode/tree/master/0443-string-compression) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/maya-11/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/maya-11/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1397-search-suggestions-system](https://github.com/maya-11/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1894-merge-strings-alternately](https://github.com/maya-11/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/maya-11/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/maya-11/Leetcode/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/maya-11/Leetcode/tree/master/0739-daily-temperatures) |
+| [1397-search-suggestions-system](https://github.com/maya-11/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/maya-11/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -99,8 +101,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/maya-11/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/maya-11/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Queue
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/maya-11/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Binary Search
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/maya-11/Leetcode/tree/master/1397-search-suggestions-system) |
+## Sorting
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/maya-11/Leetcode/tree/master/1397-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/maya-11/Leetcode/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
